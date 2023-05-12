@@ -1,0 +1,23 @@
+.location-form-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.location-input {
+  flex: 1;
+  padding: 0.5rem;
+  font-size: 1rem;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+}
+
+.location-button {
+  margin-left: 1rem;
+  padding: 0.5rem 1rem;
+  background-color: #282c34;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
